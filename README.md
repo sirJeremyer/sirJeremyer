@@ -1,6 +1,4 @@
-## Hi there 👋
-
-
+# 💫 About Me:
 Welcome to my GitHub page!
 
 ####🎓 Software Engineering B.Sc. Student
