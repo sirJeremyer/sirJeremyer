@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+
+Welcome to my GitHub page!
+####🎓 Software Engineering B.Sc. Student
+####📌 Baden-Württemberg, Germany
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-huering-5071a2328/) 
+
+### Languages:
+[![My Languages](https://skillicons.dev/icons?i=c,java,py,html,css,latex)](https://skillicons.dev)
+
+### Development Environments:
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,eclipse)](https://skillicons.dev)
+
+
 <!--
 **sirJeremyer/sirJeremyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
