@@ -13,6 +13,9 @@ Welcome to my GitHub page!
 ### Development Environments:
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,eclipse)](https://skillicons.dev)
 
+### Creative Software
+[![My Skills](https://skillicons.dev/icons?i=pr,ps,ae,ai)](https://skillicons.dev)
+
 
 <!--
 **sirJeremyer/sirJeremyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
