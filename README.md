@@ -1,9 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=0&pause=0&color=C0C0C0&center=true&vCenter=true&repeat=false&width=680&lines=JEREMY+HUERING">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=0&pause=0&color=1a1a1a&center=true&vCenter=true&repeat=false&width=680&lines=JEREMY+HUERING" alt="Jeremy Huering">
-</picture>
 
 <sup><b>SOFTWARE ENGINEERING · STUDENT · DEVELOPER</b></sup>
 
@@ -35,47 +31,6 @@ My current interests include:
 I like projects that combine clear thinking, strong implementation, and genuine usefulness.
 
 ---
-
-## Selected Project
-
-### 📒 Trading Journal
-
-Trading Journal is a solo-built web application designed for day traders who want more than a spreadsheet — a structured, analytics-first environment to log trades, understand behavior, and measure performance over time.
-
-The core idea is simple:
-
-- log every trade with entry, exit, and relevant context
-- automatically calculate performance metrics
-- surface patterns in trading behavior over time
-- give traders a clear picture of where they win and where they don't
-
-| Feature | Details |
-|---|---|
-| Trade Logging | Entry / exit price, size, direction, notes, and timestamps |
-| Performance Stats | Win rate, average return, profit factor, and streak tracking |
-| Behavior Tracking | Identify patterns across sessions, instruments, and setups |
-| Dashboard | Aggregated stats with a clear, at-a-glance overview |
-
-**Tech:** web application, statistics engine, browser-first interface
-
----
-
-## Languages
-
-<div align="center">
-
-[![Languages](https://skillicons.dev/icons?i=c,java,py,html,css,latex&perrow=6)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-`C` `Java` `Python` `HTML` `CSS` `LaTeX`
-
-</div>
-
----
-
 ## Tools & Environments
 
 <div align="center">
@@ -96,6 +51,24 @@ The core idea is simple:
 
 ---
 
+
+## Languages
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=c,java,py,html,css,latex&perrow=6)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+`C` `Java` `Python` `HTML` `CSS` `LaTeX`
+
+</div>
+
+---
+
+
 ## GitHub Activity
 
 <div align="center">
@@ -114,15 +87,6 @@ The core idea is simple:
 
 ---
 
-## Beyond the Code
-
-I believe good software comes from people with broad interests and curiosity outside the screen.
-
-- 🚴 Cycling is my reset button after long coding sessions
-- 🏟️ Big sports fan — football, motorsport, and whatever's on
-- 🇰🇷 Currently learning Korean — working through A2 level
-
----
 
 ## Contact
 
