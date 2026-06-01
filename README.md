@@ -69,23 +69,6 @@ I like projects that combine clear thinking, strong implementation, and genuine 
 ---
 
 
-## GitHub Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/5B7CFA/sirJeremyer">
-    <img src="https://ghchart.rshah.org/185FA5/sirJeremyer" alt="GitHub contribution chart" width="900">
-  </picture>
-</div>
-
-<div align="center">
-
-![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirJeremyer&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirJeremyer&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
 
 
 ## Contact
