@@ -4,7 +4,7 @@
 
 <br><br>
 
-# Jeremy Huering
+# Jeremy Hüring
 
 ### Software, considered.
 
@@ -26,16 +26,16 @@
 
 ### About
 
-I build tools that are practical, technically interesting, and grounded in real use — web applications, data trackers, automation, clean UI backed by solid logic.
+I love building tools that are practical, technically interesting and make daily life more efficiant — web applications, data trackers, automation.
 
-Currently interested in full-stack architecture, data visualization, and utility-driven software that solves one problem well.
+Current State of mine: Conquering as much knowledge as I can get.
 
 <br>
 
 ### Building
-
-- **SpotifyMenuBar** — a native macOS menu bar app for Spotify, written in Swift
-- **Die Klangnüsse** — a 2D platformer
+- **Ai Voice Agent** - voice-driven AI Agent to make my daily use of AI more efficient and tailored to my Workstyle
+- **SpotifyMenuBar** — small fun-project, Small Music widget to control Spotify
+- **Die Klangnüsse** — a 2D platformer game (Result of 2nd Place in Agent Coding Workshop, hosted by Fraunhofer)
 
 <br>
 
