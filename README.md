@@ -1,87 +1,66 @@
 <div align="center">
 
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=F8E78B&height=4" />
 
-<sup><b>SOFTWARE ENGINEERING · STUDENT · DEVELOPER</b></sup>
+<br><br>
 
-**Building practical tools, web applications, and software that solves real problems.**
+# Jeremy Huering
 
-B.Sc. Software Engineering  
-Baden-Württemberg, Germany
+### Software, considered.
+
+<sub><b>B.SC. SOFTWARE ENGINEERING · BADEN-WÜRTTEMBERG, GERMANY</b></sub>
+
+<br>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F8E78B?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/jeremy-huering-5071a2328/)
+[![GitHub](https://img.shields.io/badge/GitHub-F8E78B?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/sirJeremyer)
+
+</div>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-huering-5071a2328/)
-[![GitHub](https://img.shields.io/badge/GitHub-sirJeremyer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sirJeremyer)
-
-</div>
-
 ---
 
-## About
+<br>
 
-I enjoy building tools that are practical, technically interesting, and grounded in real-world use cases — from web applications and data trackers to automation and clean UI work.
+### About
 
-My current interests include:
+I build tools that are practical, technically interesting, and grounded in real use — web applications, data trackers, automation, clean UI backed by solid logic.
 
-- full-stack web development and application architecture
-- data tracking, visualization, and statistics
-- utility-driven software that solves concrete problems
-- clean, functional interfaces backed by solid logic
+Currently interested in full-stack architecture, data visualization, and utility-driven software that solves one problem well.
 
-I like projects that combine clear thinking, strong implementation, and genuine usefulness.
+<br>
 
----
-## Tools & Environments
+### Building
+
+- **SpotifyMenuBar** — a native macOS menu bar app for Spotify, written in Swift
+- **Die Klangnüsse** — a 2D platformer
+
+<br>
+
+### Stack
 
 <div align="center">
 
-[![Environments](https://skillicons.dev/icons?i=idea,vscode,visualstudio,eclipse&perrow=4)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=swift,ts,js,py,java,c&theme=dark)
+
+<br>
+
+![Tools](https://skillicons.dev/icons?i=idea,vscode,visualstudio,eclipse,ai,ps&theme=dark)
 
 </div>
+
+<br>
 
 ---
 
-## Creative Software
+<br>
 
 <div align="center">
+<sub>Open to collaboration · Baden-Württemberg, Germany · English / German</sub>
 
-[![Creative](https://skillicons.dev/icons?i=pr,ps,ae,ai&perrow=4)](https://skillicons.dev)
+<br><br>
 
-</div>
-
----
-
-
-## Languages
-
-<div align="center">
-
-[![Languages](https://skillicons.dev/icons?i=c,java,py,html,css,latex&perrow=6)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-`C` `Java` `Python` `HTML` `CSS` `LaTeX`
-
-</div>
-
----
-
-
-
-
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy%20Huering-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-huering-5071a2328/)
-[![GitHub](https://img.shields.io/badge/GitHub-sirJeremyer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sirJeremyer)
-
-</div>
-
----
-
-<div align="center">
-  <sub>Open to collaboration · Based in Baden-Württemberg, Germany · English and German</sub>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=F8E78B&height=4" />
 </div>
