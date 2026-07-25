@@ -26,7 +26,7 @@
 
 ### About
 
-I love building tools that are practical, technically interesting and make daily life more efficiant — web applications, data trackers, automation.
+I love building tools that are practical, technically interesting and make daily life more efficient — web applications, data trackers, automation.
 
 Current State of mine: Conquering as much knowledge as I can get.
 
