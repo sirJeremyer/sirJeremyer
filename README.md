@@ -6,9 +6,9 @@
 
 # Jeremy Hüring
 
-### Software, considered.
+### Software Student
 
-<sub><b>B.SC. SOFTWARE ENGINEERING · BADEN-WÜRTTEMBERG, GERMANY</b></sub>
+<sub><b>B.SC. SOFTWARE ENGINEERING UNIVERSITY OF STUTTGART· BADEN-WÜRTTEMBERG, GERMANY</b></sub>
 
 <br>
 <br>
