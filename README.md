@@ -23,10 +23,10 @@
 
 <br><br>
 
-<sub>Voice AI Agent
-SpotifyMenuBar 
-Die Klangnüsse 
-2nd place, Fraunhofer Agent Coding Workshop
+<sub>Voice AI Agent - 
+SpotifyMenuBar - 
+Die Klangnüsse - 
+2nd place, Fraunhofer Agent Coding Workshop - 
 GameJam/Hackathon https://flizzie.itch.io/jeffs-job
 </sub>
 
