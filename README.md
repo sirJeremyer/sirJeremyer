@@ -27,46 +27,40 @@
 ## Projects
 
 <div align="center">
-  <img width="94%" src=".github/assets/card-ecy.svg" alt="ECY — Easy Efficiency: thirteen desktop widgets on one canvas you summon and dismiss. Swift, SwiftUI, Python, local-first." />
+  <img width="94%" src=".github/assets/card-ecy.svg" alt="ECY — Easy Efficiency: a configurable macOS widget canvas, invoked by keyboard shortcut. Swift, SwiftUI, Python, local-first." />
 </div>
 
-Most menu-bar utilities give you *one* number in the corner and call it a day. **ECY** gives you a
-canvas: one shortcut drops a full-screen frosted-glass overlay over whatever you're doing, with
-every widget you care about sitting there as its own card on a 22×13 snap grid. Spotify, Reminders,
-CPU, network, battery, Gmail triage, FX charts, flight prices, Claude Code usage — thirteen of them,
-and each one also runs as an independent menu-bar app of its own. Local-first throughout: no
-backend, no relay server, nothing phoning home.
+**ECY** presents a user-selected set of widgets as a single full-screen macOS overlay, invoked by
+keyboard shortcut and arranged on a snap grid: Spotify, Reminders, CPU, network and battery
+metrics, Gmail triage, FX charts, flight prices and Claude Code token usage. Each widget also runs
+as a standalone menu-bar application.
 
 <sub><b>Swift · SwiftUI · Python · macOS 13+</b> — private repository</sub>
 
 <br>
 
 <div align="center">
-  <img width="94%" src=".github/assets/card-klangnuesse.svg" alt="Die Klangnüsse — shout to jump: a squirrel climbs a tree and your voice is the controller. JavaScript, Vite, Web Audio, Playwright." />
+  <img width="94%" src=".github/assets/card-klangnuesse.svg" alt="Die Klangnüsse — Symphony of the Forest: a 2D platformer controlled by microphone input amplitude. JavaScript, Vite, Web Audio, Playwright." />
 </div>
 
-A pixel platformer played with your **voice**. Knut the squirrel climbs an endless tree and how
-loud you are is the throttle — stay quiet and he creeps, shout and he jumps, while the arrow keys
-only pick a direction. The camera ratchets upward and never comes back down, so falling out of
-frame is death. Built at the Fraunhofer **Agent Coding Workshop**, where it placed **2nd**, and
-since grown a shrine of nut-bought upgrades, a run logbook and seasonal canopies that swap in
-mid-climb. Underneath: chunked procedural generation, seeded RNG, and a deterministic Playwright
-suite that drives the game through the DOM — no microphone required to test it.
+**Die Klangnüsse** is a browser-based 2D platformer controlled by microphone input: the arrow keys
+select direction, while measured volume determines speed and jump height. It uses chunked
+procedural generation with seeded RNG, and is tested by a deterministic Playwright suite that
+requires no microphone. Developed at the Fraunhofer **Agent Coding Workshop**, where it placed
+**second**.
 
 <sub><b>JavaScript · Vite · Web Audio · Playwright</b> — [Die-Klangnuesse-2D-Platformer](https://github.com/sirJeremyer/Die-Klangnuesse-2D-Platformer)</sub>
 
 <br>
 
 <div align="center">
-  <img width="94%" src=".github/assets/card-gamejam.svg" alt="Jeff's Job — Game Jam Ulm 2025: stamp the quota, answer the phone, keep the family. Godot 4.5, GDScript." />
+  <img width="94%" src=".github/assets/card-gamejam.svg" alt="Jeff's Job — Game Jam Ulm 2025: a five-day office simulation with two competing objectives. Godot 4.5, GDScript." />
 </div>
 
-**Jeff's Job** drops you into five days of a desk job, built with a team at **Game Jam Ulm 2025**.
-Stamp the documents, send exactly the right number of emails, and pick up when your mother calls.
-The quota ratchets every day — twenty stamps, then twenty-three, twenty-five, twenty-seven, thirty —
-and each evening scores you in two currencies: money, and the hours you owe your family. Miss the
-phone on day four and the recap just reads *"You didn't answer....DIVORCE"*. There are two endings,
-and both of them are you leaving that desk.
+**Jeff's Job** is a narrative office simulation spanning five in-game days, developed by a team at
+**Game Jam Ulm 2025**. Each day sets a rising document quota alongside email and phone obligations,
+scoring the player in two competing currencies — earnings and time spent with family — across two
+possible endings.
 
 <sub><b>Godot 4.5 · GDScript · 2D narrative</b> — team project, [play it on itch.io](https://flizzie.itch.io/jeffs-job)</sub>
 

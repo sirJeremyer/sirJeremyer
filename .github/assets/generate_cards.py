@@ -195,7 +195,7 @@ if __name__ == "__main__":
                  + grey(624, 112, 100, 44, bar=26)
                  + grey(736, 132, 104, 24, r=8, bar=30))
     card("ecy", "ECY", "EASY EFFICIENCY",
-         "Thirteen desktop widgets on one canvas you summon and dismiss.",
+         "A configurable macOS widget canvas, invoked by keyboard shortcut.",
          "#8B7BF6", "#15161A", "#0A0A0C",
          ["Swift", "SwiftUI", "Python", "Local-first"],
          motif=ecy_motif)
@@ -217,7 +217,7 @@ if __name__ == "__main__":
         tree += (f'  <rect x="{634 + int(bw * 0.52)}" y="{by - 13}" width="2.4" height="14" '
                  f'fill="#FFFFFF" fill-opacity="{o:.2f}"/>\n')
     card("klangnuesse", "Die Klangnüsse", "SYMPHONY OF THE FOREST",
-         "A squirrel climbs a tree — and your voice is the controller.",
+         "A 2D platformer controlled by microphone input amplitude.",
          "#FFB845", "#15161A", "#0A0A0C",
          ["JavaScript", "Vite", "Web Audio", "Playwright"],
          motif=tree)
@@ -241,7 +241,7 @@ if __name__ == "__main__":
              f'font-weight="700" letter-spacing="1" fill="#FFFFFF" '
              f'fill-opacity="0.50">500$</text>\n')
     card("gamejam", "Jeff's Job", "GAME JAM ULM 2025",
-         "Stamp the quota, answer the phone, keep the family — pick two.",
+         "A five-day office simulation with two competing objectives.",
          "#A79BD1", "#15161A", "#0A0A0C",
          ["Godot 4.5", "GDScript", "Narrative 2D", "Team project"],
          motif=desk)
