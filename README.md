@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3F7A,50:3FA9DC,100:E8802C&height=6" />
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0C,50:9AA0A9,100:0A0A0C&height=6" />
 
 <br><br>
 
@@ -10,8 +10,7 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3FA9DC?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/jeremy-huering-5071a2328/)
-[![GitHub](https://img.shields.io/badge/GitHub-E8802C?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/sirJeremyer)
+[<img height="36" src=".github/assets/badge-linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/jeremy-huering-5071a2328/) &nbsp; [<img height="36" src=".github/assets/badge-github.svg" alt="GitHub" />](https://github.com/sirJeremyer)
 
 <br><br>
 
@@ -75,6 +74,6 @@ and both of them are you leaving that desk.
 
 <div align="center">
 
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:E8802C,50:3FA9DC,100:1B3F7A&height=6" />
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0C,50:9AA0A9,100:0A0A0C&height=6" />
 
 </div>
